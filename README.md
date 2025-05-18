@@ -9,7 +9,7 @@
 <body>
 
   <h1>Cub3D</h1>
-  <p><strong>Author:</strong> Your Name</p>
+  <p><strong>Author:</strong> kahmada & ksellami</p>
   <p><strong>School:</strong> 42</p>
   <h2>🖼️ Screenshots</h2>
 
