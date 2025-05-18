@@ -4,41 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cub3D - 42 Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #1e1e1e;
-      color: #f5f5f5;
-      line-height: 1.6;
-      margin: 0;
-      padding: 2rem;
-    }
-    h1, h2, h3 {
-      color: #ffcc00;
-    }
-    code {
-      background-color: #333;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #2e2e2e;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    a {
-      color: #00d0ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-  </style>
+  
 </head>
 <body>
 
