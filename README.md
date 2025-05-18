@@ -11,6 +11,11 @@
   <h1>Cub3D</h1>
   <p><strong>Author:</strong> Your Name</p>
   <p><strong>School:</strong> 42</p>
+  <h2>🖼️ Screenshots</h2>
+
+<img src="cub.png" alt="Cub3D Screenshot 1" style="max-width:100%; border-radius:8px; margin-bottom: 1rem;" />
+
+<img src="sc.png" alt="Cub3D Screenshot 2" style="max-width:100%; border-radius:8px;" />
 
   <h2>📌 Description</h2>
   <p>
