@@ -34,12 +34,12 @@
   </ul>
 
   <h2>🛠️ Installation</h2>
-  <pre><code>git clone https://github.com/yourusername/cub3d.git
+  <pre><code>git clone https://github.com/kahmada/cub3d.git
 cd cub3d
 make</code></pre>
 
   <h2>🎮 Usage</h2>
-  <pre><code>./cub3D maps/map.cub</code></pre>
+  <pre><code>./cub3D_bonus map.cub</code></pre>
   <p>Controls:</p>
   <ul>
     <li><code>W / A / S / D</code>: Move forward, left, back, right</li>
