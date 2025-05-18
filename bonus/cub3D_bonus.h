@@ -13,6 +13,10 @@
 #ifndef CUB3D_BONUS_H
 # define CUB3D_BONUS_H
 
+
+
+
+
 # include <mlx.h>
 # include <fcntl.h>
 # include <stdlib.h>
